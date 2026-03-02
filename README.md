@@ -24,3 +24,6 @@ Concepts practiced:
 - Variables
 - int.Parse
 - String formatting ({0}, {1})
+
+[You can check out the code I wrote for Day 1 here](./Day01/HelloWorld/HelloWorld/Program.cs)
+
