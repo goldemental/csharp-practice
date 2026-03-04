@@ -12,13 +12,13 @@ My goal is to build a strong understanding of fundamental concepts and become mo
 
 ### Day 1 – Hello World & Basic Input/Output
 
-A simple console application that:
+**A simple console application that:**
 - Prints "Hello World"
 - Asks the user for their name
 - Asks the user for their age
 - Displays the entered information using string formatting
 
-Concepts practiced:
+**Concepts practiced:**
 - Console.WriteLine
 - Console.ReadLine
 - Variables
@@ -29,14 +29,14 @@ Concepts practiced:
 
 ### Day 2 – Data Types & User Input
 
-A small console application that:
+**A small console application that:**
 - Asks the user for the first number
 - Asks the user for the second number
 - Converts the entered values to integers
 - Calculates the sum of the two numbers
 - Displays the result using string formatting
 
-Concepts practiced:
+**Concepts practiced:**
 - Data types (int, string)
 - Console.WriteLine
 - Console.ReadLine
@@ -48,7 +48,24 @@ Concepts practiced:
 [You can check out the code I wrote for Day 2 here](./Day02/DataTypes/DataTypes/Program.cs)
 
 ### Day 3 – Operators
-Write a program that calculates the area of a rectangle using user input for length and width.
+
+**A small console application that:**
+- Asks the user for the length of the rectangle
+- Asks the user for the width of the rectangle
+- Converts the entered values to integers
+- Calculates the area of the rectangle
+- Displays the result using string formatting
+
+**Concepts practiced:**
+- Data types (int, string)
+- Console.WriteLine
+- Console.ReadLine
+- Variables
+- int.Parse
+- Arithmetic operators (*)
+- String formatting ({0}, {1}, {2})
+
+[You can check out the code I wrote for Day 3 here](./Day03/RectangleAreaCalculator/RectangleAreaCalculator/Program.cs)
 
 ### Day 4 – Decision Structures (if-else)
 Create a program that checks if a number entered by the user is even or odd.
