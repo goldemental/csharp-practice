@@ -68,7 +68,21 @@ My goal is to build a strong understanding of fundamental concepts and become mo
 [You can check out the code I wrote for Day 3 here](./Day03/RectangleAreaCalculator/RectangleAreaCalculator/Program.cs)
 
 ### Day 4 – Decision Structures (if-else)
-Create a program that checks if a number entered by the user is even or odd.
+
+**A small console application that:**
+- Asks the user to enter a number
+- Converts the entered value to an integer
+- Checks whether the number is even or odd using an if-else statement
+- Displays the result to the user
+
+**Concepts practiced:**
+- Decision structures (if, else)
+- Data types (int, string)
+- Console.WriteLine
+- Console.ReadLine
+- Variables
+- int.Parse
+- Modulus operator (%)
 
 ### Day 5 – Switch Statement
 Write a program that asks the user for a day number (1-7) and prints the corresponding day name.
