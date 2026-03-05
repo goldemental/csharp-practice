@@ -84,6 +84,8 @@ My goal is to build a strong understanding of fundamental concepts and become mo
 - int.Parse
 - Modulus operator (%)
 
+[You can check out the code I wrote for Day 4 here](./Day04/DecisionStructures/DecisionStructures/Program.cs)
+
 ### Day 5 – Switch Statement
 Write a program that asks the user for a day number (1-7) and prints the corresponding day name.
 
