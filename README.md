@@ -104,7 +104,19 @@ My goal is to build a strong understanding of fundamental concepts and become mo
 [You can check out the code I wrote for Day 5 here](./Day05/SwitchStatement/SwitchStatement/Program.cs)
 
 ### Day 6 – Loops: for
-Write a program that prints numbers from 1 to 10 using a for loop.
+
+**A small console application that:**
+- Uses a for loop to iterate from 1 to 10
+- Prints each number to the console
+
+**Concepts practiced:**
+- Loops (for)
+- Variables
+- Increment operator (++)
+- Console.WriteLine
+- Control flow
+
+You can check out the code I wrote for Day 6 here
 
 ### Day 7 – Loops: while
 Write a program that asks the user for a number and prints all numbers from 1 to that number.
