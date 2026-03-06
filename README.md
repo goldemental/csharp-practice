@@ -101,7 +101,7 @@ My goal is to build a strong understanding of fundamental concepts and become mo
 - int.Parse
 - Control flow
 
-You can check out the code I wrote for Day 5 here
+[You can check out the code I wrote for Day 5 here](./Day05/SwitchStatement/SwitchStatement/Program.cs)
 
 ### Day 6 – Loops: for
 Write a program that prints numbers from 1 to 10 using a for loop.
