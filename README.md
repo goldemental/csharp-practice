@@ -87,7 +87,21 @@ My goal is to build a strong understanding of fundamental concepts and become mo
 [You can check out the code I wrote for Day 4 here](./Day04/DecisionStructures/DecisionStructures/Program.cs)
 
 ### Day 5 – Switch Statement
-Write a program that asks the user for a day number (1-7) and prints the corresponding day name.
+
+**A small console application that:**
+- Asks the user to enter a day number (1–7)
+- Uses a switch statement to determine the corresponding day
+- Displays the name of the day to the user
+
+**Concepts practiced:**
+- Switch statement (switch, case, default)
+- Console.WriteLine
+- Console.ReadLine
+- Variables
+- int.Parse
+- Control flow
+
+You can check out the code I wrote for Day 5 here
 
 ### Day 6 – Loops: for
 Write a program that prints numbers from 1 to 10 using a for loop.
