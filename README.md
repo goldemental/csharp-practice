@@ -119,7 +119,23 @@ My goal is to build a strong understanding of fundamental concepts and become mo
 [You can check out the code I wrote for Day 6 here](./Day06/ForLoop/ForLoop/Program.cs)
 
 ### Day 7 – Loops: while
-Write a program that asks the user for a number and prints all numbers from 1 to that number.
+
+**A small console application that:**
+- Asks the user to enter a number
+- Uses a while loop to iterate from 1 to the entered number
+- Prints each number to the console
+
+**Concepts practiced:**
+- Loops (while)
+- Variables
+- Increment operator (++)
+- Console.WriteLine
+- Console.ReadLine
+- int.Parse
+- Control flow
+
+[You can check out the code I wrote for Day 7 here](./)
+
 
 ### Day 8 – Loops: foreach
 Create an array of names and print each name using a foreach loop.
