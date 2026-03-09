@@ -138,7 +138,21 @@ My goal is to build a strong understanding of fundamental concepts and become mo
 
 
 ### Day 8 – Loops: foreach
-Create an array of names and print each name using a foreach loop.
+
+**A small console application that:**
+- Creates an array containing several names
+- Uses a foreach loop to iterate through the array
+- Prints each name to the console
+
+**Concepts practiced:**
+- Arrays
+- foreach loop
+- Iteration
+- Console.WriteLine
+- Variables
+- Control flow
+
+You can check out the code I wrote for Day 8 here
 
 ### Day 9 – Arrays
 Write a program that stores 5 numbers in an array and prints their sum.
