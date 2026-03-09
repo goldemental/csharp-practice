@@ -152,7 +152,7 @@ My goal is to build a strong understanding of fundamental concepts and become mo
 - Variables
 - Control flow
 
-You can check out the code I wrote for Day 8 here
+[You can check out the code I wrote for Day 8 here](./Day08/LoopsForeach/LoopsForeach/Program.cs)
 
 ### Day 9 – Arrays
 Write a program that stores 5 numbers in an array and prints their sum.
