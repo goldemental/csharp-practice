@@ -171,7 +171,7 @@ My goal is to build a strong understanding of fundamental concepts and become mo
 - Console.WriteLine
 - Iteration
 
-You can check out the code I wrote for Day 9 here.
+[You can check out the code I wrote for Day 9 here.](./Day09/Arrays/Arrays/Program.cs)
 
 ### Day 10 – Lists
 Create a list of your favorite fruits and print them.
