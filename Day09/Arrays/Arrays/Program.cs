@@ -1,4 +1,4 @@
-﻿namespace ArraysDay9
+﻿namespace Arrays
 {
     internal class Program
     {
@@ -16,4 +16,5 @@
             Console.WriteLine("The sum of the numbers is {0}.", sum);
         }
     }
+
 }
