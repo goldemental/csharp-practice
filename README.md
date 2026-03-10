@@ -155,7 +155,23 @@ My goal is to build a strong understanding of fundamental concepts and become mo
 [You can check out the code I wrote for Day 8 here](./Day08/LoopsForeach/LoopsForeach/Program.cs)
 
 ### Day 9 – Arrays
-Write a program that stores 5 numbers in an array and prints their sum.
+
+**A small console application that:**
+- Creates an array to store 5 numbers
+- Assigns values to the array
+- Iterates through the array
+- Calculates the sum of the numbers
+- Prints the final result to the console
+
+**Concepts practiced:**
+- Arrays
+- Variables
+- for loop
+- Arithmetic operators (+)
+- Console.WriteLine
+- Iteration
+
+You can check out the code I wrote for Day 9 here.
 
 ### Day 10 – Lists
 Create a list of your favorite fruits and print them.
