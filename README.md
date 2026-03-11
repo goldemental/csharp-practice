@@ -174,7 +174,22 @@ My goal is to build a strong understanding of fundamental concepts and become mo
 [You can check out the code I wrote for Day 9 here.](./Day09/Arrays/Arrays/Program.cs)
 
 ### Day 10 – Lists
-Create a list of your favorite fruits and print them.
+
+**A small console application that:**
+- Creates a list of favorite fruits
+- Adds several fruit names to the list
+- Uses a foreach loop to iterate through the list
+- Prints each fruit to the console
+
+**Concepts practiced:**
+- Lists (List<T>)
+- foreach loop
+- Collections
+- Console.WriteLine
+- Variables
+- Iteration
+
+You can check out the code I wrote for Day 10 here.
 
 ### Day 11 – String Methods
 Write a program that asks for the user's full name and prints it in uppercase.
