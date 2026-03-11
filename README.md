@@ -189,7 +189,7 @@ My goal is to build a strong understanding of fundamental concepts and become mo
 - Variables
 - Iteration
 
-You can check out the code I wrote for Day 10 here.
+[You can check out the code I wrote for Day 10 here.](./Day10/Lists/Lists/Program.cs)
 
 ### Day 11 – String Methods
 Write a program that asks for the user's full name and prints it in uppercase.
