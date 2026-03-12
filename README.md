@@ -192,7 +192,21 @@ My goal is to build a strong understanding of fundamental concepts and become mo
 [You can check out the code I wrote for Day 10 here.](./Day10/Lists/Lists/Program.cs)
 
 ### Day 11 – String Methods
-Write a program that asks for the user's full name and prints it in uppercase.
+
+**A small console application that:**
+- Asks the user to enter their full name
+- Stores the entered value in a string variable
+- Converts the name to uppercase using a string method
+- Prints the result to the console
+
+**Concepts practiced:**
+-  Strings
+- String methods (ToUpper)
+- Console.WriteLine
+- Console.ReadLine
+- Variables
+
+You can check out the code I wrote for Day 11 here.
 
 ### Day 12 – String Concatenation
 Ask for the user's first and last name and print a greeting message using concatenation.
