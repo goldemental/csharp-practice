@@ -206,7 +206,7 @@ My goal is to build a strong understanding of fundamental concepts and become mo
 - Console.ReadLine
 - Variables
 
-You can check out the code I wrote for Day 11 here.
+[You can check out the code I wrote for Day 11 here.](./Day11/StringMethods/StringMethods/Program.cs)
 
 ### Day 12 – String Concatenation
 Ask for the user's first and last name and print a greeting message using concatenation.
