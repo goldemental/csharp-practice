@@ -211,6 +211,8 @@ My goal is to build a strong understanding of fundamental concepts and become mo
 ### Day 12 – String Concatenation
 Ask for the user's first and last name and print a greeting message using concatenation.
 
+[You can check out the code I wrote for Day 12 here]
+
 ### Day 13 – Math Class
 Write a program that calculates the square root of a number entered by the user.
 
