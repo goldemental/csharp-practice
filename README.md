@@ -209,19 +209,19 @@ My goal is to build a strong understanding of fundamental concepts and become mo
 [You can check out the code I wrote for Day 11 here.](./Day11/StringMethods/StringMethods/Program.cs)
 
 ### Day 12 – String Concatenation
-A small console application that:
-Asks the user to enter their first name
-Asks the user to enter their last name
-Combines the entered values using string concatenation
-Displays a greeting message to the user
 
-Concepts practiced:
+**A small console application that:**
+- Asks the user to enter their first name
+- Asks the user to enter their last name
+- Combines the entered values using string concatenation
+- Displays a greeting message to the user
 
-Strings
-String concatenatio (+)
-Console.WriteLine
-Console.ReadLin
-Variables
+**Concepts practiced:**
+- Strings
+- String concatenation (+)
+- Console.WriteLine
+- Console.ReadLine
+- Variables
 
 [You can check out the code I wrote for Day 12 here]
 
