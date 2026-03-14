@@ -242,7 +242,7 @@ My goal is to build a strong understanding of fundamental concepts and become mo
 - Numeric data types (double)
 - Type conversion
 
-[You can check out the code I wrote for Day 13 here.](./
+[You can check out the code I wrote for Day 13 here.](./Day13/MathClass/MathClass/Program.cs)
 
 ### Day 14 – Random Numbers
 Create a program that generates a random number between 1 and 100 and asks the user to guess it.
