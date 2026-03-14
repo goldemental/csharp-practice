@@ -223,10 +223,26 @@ My goal is to build a strong understanding of fundamental concepts and become mo
 - Console.ReadLine
 - Variables
 
-[You can check out the code I wrote for Day 12 here]
+[You can check out the code I wrote for Day 12 here](./Day12/StringConcatenation/StringConcatenation/Program.cs)
 
 ### Day 13 – Math Class
-Write a program that calculates the square root of a number entered by the user.
+
+**A small console application that:**
+- Asks the user to enter a number
+- Converts the entered value to a numeric type
+- Calculates the square root of the number using the Math class
+- Displays the result to the user
+
+**Concepts practiced:**
+- Math class
+- Math.Sqrt()
+- Console.WriteLine
+- Console.ReadLine
+- Variables
+- Numeric data types (double)
+- Type conversion
+
+[You can check out the code I wrote for Day 13 here.](./
 
 ### Day 14 – Random Numbers
 Create a program that generates a random number between 1 and 100 and asks the user to guess it.
