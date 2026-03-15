@@ -245,7 +245,24 @@ My goal is to build a strong understanding of fundamental concepts and become mo
 [You can check out the code I wrote for Day 13 here.](./Day13/MathClass/MathClass/Program.cs)
 
 ### Day 14 – Random Numbers
-Create a program that generates a random number between 1 and 100 and asks the user to guess it.
+
+**A small console application that:**
+- Generates a random number between 1 and 100
+- Asks the user to guess the number
+- Converts the user input to an integer
+- Compares the guess with the generated number
+- Displays whether the guess is correct or not
+
+**Concepts practiced:**
+- Random class
+- Random.Next()
+- Variables
+- Console.WriteLine
+- Console.ReadLine
+- int.Parse
+- Basic comparison
+
+[You can check out the code I wrote for Day 14 here.](./Day14/RandomNumbers/RandomNumbers/Program.cs)
 
 ### Day 15 – Simple Calculator
 Ask the user for two numbers and an operator (+, -, *, /) and print the result.
