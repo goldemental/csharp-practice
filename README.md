@@ -282,7 +282,7 @@ My goal is to build a strong understanding of fundamental concepts and become mo
 - int.Parse
 - Basic control flow
 
-You can check out the code I wrote for Day 15 here.
+[You can check out the code I wrote for Day 15 here.](./Day15/SimpleCalculator/SimpleCalculator/Program.cs)
 
 ### Day 16 – Functions/Methods
 Create a function that takes a number and returns its square. Test it in Main.
