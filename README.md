@@ -265,7 +265,24 @@ My goal is to build a strong understanding of fundamental concepts and become mo
 [You can check out the code I wrote for Day 14 here.](./Day14/RandomNumbers/RandomNumbers/Program.cs)
 
 ### Day 15 – Simple Calculator
-Ask the user for two numbers and an operator (+, -, *, /) and print the result.
+
+**A small console application that:**
+- Asks the user to enter the first number
+- Asks the user to enter an operator (+, -, *, /)
+- Asks the user to enter the second number
+- Performs the selected operation
+- Displays the result to the user
+
+**Concepts practiced:**
+- Arithmetic operators (+, -, *, /)
+- Variables
+- if / else decision structures
+- Console.WriteLine
+- Console.ReadLine
+- int.Parse
+- Basic control flow
+
+You can check out the code I wrote for Day 15 here.
 
 ### Day 16 – Functions/Methods
 Create a function that takes a number and returns its square. Test it in Main.
