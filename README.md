@@ -285,7 +285,24 @@ My goal is to build a strong understanding of fundamental concepts and become mo
 [You can check out the code I wrote for Day 15 here.](./Day15/SimpleCalculator/SimpleCalculator/Program.cs)
 
 ### Day 16 – Functions/Methods
-Create a function that takes a number and returns its square. Test it in Main.
+
+**A small console application that:**
+- Asks the user to enter a number
+- Passes the number to a method
+- The method calculates the square of the number
+- Returns the result to the Main method
+- Displays the result to the user
+
+**Concepts practiced:**
+- Methods
+- Return values
+- Parameters
+- Variables
+- Console.WriteLine
+- Console.ReadLine
+- int.Parse
+
+You can check out the code I wrote for Day 16 here.
 
 ### Day 17 – Return Values
 Write a method that takes two numbers and returns the larger one.
