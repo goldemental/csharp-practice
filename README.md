@@ -302,7 +302,7 @@ My goal is to build a strong understanding of fundamental concepts and become mo
 - Console.ReadLine
 - int.Parse
 
-You can check out the code I wrote for Day 16 here.
+[You can check out the code I wrote for Day 16 here.](./Day16/Methods/Methods/Program.cs)
 
 ### Day 17 – Return Values
 Write a method that takes two numbers and returns the larger one.
