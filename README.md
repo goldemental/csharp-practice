@@ -323,7 +323,7 @@ My goal is to build a strong understanding of fundamental concepts and become mo
 - Console.ReadLine
 - int.Parse
 
-[You can check out the code I wrote for Day 17 here.]
+[You can check out the code I wrote for Day 17 here.](./Day17/ReturnValues/ReturnValues/Program.cs)
 
 ### Day 18 – Parameters
 Create a method that greets a user by name.
