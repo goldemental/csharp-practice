@@ -305,7 +305,25 @@ My goal is to build a strong understanding of fundamental concepts and become mo
 [You can check out the code I wrote for Day 16 here.](./Day16/Methods/Methods/Program.cs)
 
 ### Day 17 – Return Values
-Write a method that takes two numbers and returns the larger one.
+
+**A small console application that:**
+- Asks the user to enter two numbers
+- Passes the numbers to a method
+- The method compares the two numbers
+- Returns the larger number
+- Displays the result to the user
+
+**Concepts practiced:**
+- Methods
+- Return values
+- Parameters
+- if / else decision structures
+- Variables
+- Console.WriteLine
+- Console.ReadLine
+- int.Parse
+
+[You can check out the code I wrote for Day 17 here.]
 
 ### Day 18 – Parameters
 Create a method that greets a user by name.
