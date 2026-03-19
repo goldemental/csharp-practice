@@ -326,7 +326,21 @@ My goal is to build a strong understanding of fundamental concepts and become mo
 [You can check out the code I wrote for Day 17 here.](./Day17/ReturnValues/ReturnValues/Program.cs)
 
 ### Day 18 – Parameters
-Create a method that greets a user by name.
+
+**A small console application that:**
+- Asks the user to enter their name
+- Passes the name to a method as a parameter
+- The method prints a greeting message using the provided name
+
+**Concepts practiced:**
+- Methods
+- Parameters
+- Variables
+- Console.WriteLine
+- Console.ReadLine
+- Basic program structure
+
+[You can check out the code I wrote for Day 18 here.](./)
 
 ### Day 19 – Boolean Methods
 Write a method that checks if a number is positive.
