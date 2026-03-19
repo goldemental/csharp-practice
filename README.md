@@ -340,7 +340,7 @@ My goal is to build a strong understanding of fundamental concepts and become mo
 - Console.ReadLine
 - Basic program structure
 
-[You can check out the code I wrote for Day 18 here.](./)
+[You can check out the code I wrote for Day 18 here.](./Day18/Parameters/Parameters/Program.cs)
 
 ### Day 19 – Boolean Methods
 Write a method that checks if a number is positive.
