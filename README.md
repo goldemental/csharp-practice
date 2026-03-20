@@ -343,7 +343,24 @@ My goal is to build a strong understanding of fundamental concepts and become mo
 [You can check out the code I wrote for Day 18 here.](./Day18/Parameters/Parameters/Program.cs)
 
 ### Day 19 – Boolean Methods
-Write a method that checks if a number is positive.
+
+**A small console application that:**
+- Asks the user to enter a number
+- Passes the number to a method
+- The method checks if the number is positive
+- Returns a boolean value (true or false)
+- Displays the result to the user
+
+**Concepts practiced:**
+- Boolean methods
+- Return values (bool)
+- Parameters
+- if / else decision structures
+- Console.WriteLine
+- Console.ReadLine
+- int.Parse
+
+[You can check out the code I wrote for Day 19 here.](./)
 
 ### Day 20 – Try/Catch Exception
 Ask the user for a number and handle invalid input using try/catch.
