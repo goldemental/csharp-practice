@@ -360,7 +360,7 @@ My goal is to build a strong understanding of fundamental concepts and become mo
 - Console.ReadLine
 - int.Parse
 
-[You can check out the code I wrote for Day 19 here.](./)
+[You can check out the code I wrote for Day 19 here.](./Day19/BooleanMethods/BooleanMethods/Program.cs)
 
 ### Day 20 – Try/Catch Exception
 Ask the user for a number and handle invalid input using try/catch.
