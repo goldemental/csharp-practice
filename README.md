@@ -363,7 +363,22 @@ My goal is to build a strong understanding of fundamental concepts and become mo
 [You can check out the code I wrote for Day 19 here.](./Day19/BooleanMethods/BooleanMethods/Program.cs)
 
 ### Day 20 – Try/Catch Exception
-Ask the user for a number and handle invalid input using try/catch.
+
+**A small console application that:**
+- Asks the user to enter a number
+- Attempts to convert the input to an integer
+- Uses a try/catch block to handle invalid input
+- Displays an error message if the input is not a valid number
+
+**Concepts practiced:**
+- Exception handling
+- try / catch blocks
+- int.Parse
+- Console.WriteLine
+- Console.ReadLine
+- Variables
+
+You can check out the code I wrote for Day 20 here.
 
 ### Day 21 – Simple Calculator with Methods
 Refactor Day 15’s calculator to use methods for each operation.
