@@ -378,7 +378,7 @@ My goal is to build a strong understanding of fundamental concepts and become mo
 - Console.ReadLine
 - Variables
 
-You can check out the code I wrote for Day 20 here.
+[You can check out the code I wrote for Day 20 here.](./Day20/TryCatch/TryCatch/Program.cs)
 
 ### Day 21 – Simple Calculator with Methods
 Refactor Day 15’s calculator to use methods for each operation.
