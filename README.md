@@ -381,7 +381,25 @@ My goal is to build a strong understanding of fundamental concepts and become mo
 [You can check out the code I wrote for Day 20 here.](./Day20/TryCatch/TryCatch/Program.cs)
 
 ### Day 21 – Simple Calculator with Methods
-Refactor Day 15’s calculator to use methods for each operation.
+
+**A small console application that:**
+- Asks the user to enter the first number
+- Asks the user to enter an operator (+, -, *, /)
+- Asks the user to enter the second number
+- Uses separate methods for each arithmetic operation
+- Displays the result to the user
+
+**Concepts practiced:**
+- Methods
+- Parameters
+- Return values
+- Arithmetic operators (+, -, *, /)
+  - onsole.WriteLine
+  - Console.ReadLine
+- int.Parse
+- Code refactoring
+
+You can check out the code I wrote for Day 21 here.
 
 ### Day 22 – 2D Arrays
 Create a 2x2 matrix and print its elements.
