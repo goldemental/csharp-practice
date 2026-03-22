@@ -394,12 +394,12 @@ My goal is to build a strong understanding of fundamental concepts and become mo
 - Parameters
 - Return values
 - Arithmetic operators (+, -, *, /)
-  - onsole.WriteLine
-  - Console.ReadLine
+- Console.WriteLine
+- Console.ReadLine
 - int.Parse
 - Code refactoring
 
-You can check out the code I wrote for Day 21 here.
+[You can check out the code I wrote for Day 21 here.](./Day21/SimpleCalculator/SimpleCalculator/Program.cs)
 
 ### Day 22 – 2D Arrays
 Create a 2x2 matrix and print its elements.
