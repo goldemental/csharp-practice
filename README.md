@@ -402,7 +402,21 @@ My goal is to build a strong understanding of fundamental concepts and become mo
 [You can check out the code I wrote for Day 21 here.](./Day21/SimpleCalculator/SimpleCalculator/Program.cs)
 
 ### Day 22 – 2D Arrays
-Create a 2x2 matrix and print its elements.
+
+**A small console application that:**
+- Creates a 2x2 matrix using a two-dimensional array
+- Stores numbers inside the matrix
+- Uses nested loops to access each element
+- Prints all elements of the matrix
+
+**Concepts practiced:**
+- Two-dimensional arrays
+- Nested loops
+- Variables
+- Console.WriteLine
+- Array indexing
+
+You can check out the code I wrote for Day 22 here.
 
 ### Day 23 – Loops with Arrays
 Ask the user for 5 numbers, store them in an array, and print the sum using a loop.
