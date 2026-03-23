@@ -416,7 +416,7 @@ My goal is to build a strong understanding of fundamental concepts and become mo
 - Console.WriteLine
 - Array indexing
 
-You can check out the code I wrote for Day 22 here.
+[You can check out the code I wrote for Day 22 here.](./Day22/TwoDArrays/TwoDArrays/Program.cs)
 
 ### Day 23 – Loops with Arrays
 Ask the user for 5 numbers, store them in an array, and print the sum using a loop.
