@@ -435,7 +435,7 @@ My goal is to build a strong understanding of fundamental concepts and become mo
 - int.Parse
 - Array indexing
 
-You can check out the code I wrote for Day 23 here.
+[You can check out the code I wrote for Day 23 here.](./Day23/LoopsWithArrays/LoopsWithArrays/Program.cs)
 
 ### Day 24 – Lists and Loops
 Create a list of 5 numbers and print all numbers greater than 3.
