@@ -419,7 +419,23 @@ My goal is to build a strong understanding of fundamental concepts and become mo
 [You can check out the code I wrote for Day 22 here.](./Day22/TwoDArrays/TwoDArrays/Program.cs)
 
 ### Day 23 – Loops with Arrays
-Ask the user for 5 numbers, store them in an array, and print the sum using a loop.
+
+**A small console application that:**
+- Asks the user to enter 5 numbers
+- Stores the numbers in an array
+- Uses a loop to calculate the sum of the numbers
+- Displays the total sum to the user
+
+**Concepts practiced:**
+- Arrays
+- Loops (for)
+- Variables
+- Console.WriteLine
+- Console.ReadLine
+- int.Parse
+- Array indexing
+
+You can check out the code I wrote for Day 23 here.
 
 ### Day 24 – Lists and Loops
 Create a list of 5 numbers and print all numbers greater than 3.
