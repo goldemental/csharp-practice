@@ -452,7 +452,7 @@ My goal is to build a strong understanding of fundamental concepts and become mo
 - Variables
 - Console.WriteLine
 
-You can check out the code I wrote for Day 24 here.
+[You can check out the code I wrote for Day 24 here.](./Day24/ListsAndLoops/ListsAndLoops/Program.cs)
 
 ### Day 25 – String Formatting
 Ask for a name and age and print them using string interpolation.
