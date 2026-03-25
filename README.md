@@ -438,7 +438,21 @@ My goal is to build a strong understanding of fundamental concepts and become mo
 [You can check out the code I wrote for Day 23 here.](./Day23/LoopsWithArrays/LoopsWithArrays/Program.cs)
 
 ### Day 24 – Lists and Loops
-Create a list of 5 numbers and print all numbers greater than 3.
+
+**A small console application that:**
+- Creates a list containing 5 numbers
+- Uses a loop to iterate through the list
+- Checks each number using a condition
+- Prints the numbers that are greater than 3
+
+**Concepts practiced:**
+- Lists (List<int>)
+- Loops (foreach)
+- Conditional statements (if)
+- Variables
+- Console.WriteLine
+
+You can check out the code I wrote for Day 24 here.
 
 ### Day 25 – String Formatting
 Ask for a name and age and print them using string interpolation.
