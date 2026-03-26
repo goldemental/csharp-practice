@@ -455,7 +455,23 @@ My goal is to build a strong understanding of fundamental concepts and become mo
 [You can check out the code I wrote for Day 24 here.](./Day24/ListsAndLoops/ListsAndLoops/Program.cs)
 
 ### Day 25 – String Formatting
-Ask for a name and age and print them using string interpolation.
+
+**A small console application that:**
+
+- Asks the user to enter their name
+- Asks the user to enter their age
+- Uses string interpolation to format the output
+- Displays the formatted message to the user
+
+**Concepts practiced:**
+
+- String interpolation ($"")
+- Variables
+- Console.WriteLine
+- Console.ReadLine
+- int.Parse
+
+[You can check out the code I wrote for Day 25 here.]
 
 ### Day 26 – DateTime
 Write a program that prints today’s date and the day of the week.
