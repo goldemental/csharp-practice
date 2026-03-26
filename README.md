@@ -471,7 +471,7 @@ My goal is to build a strong understanding of fundamental concepts and become mo
 - Console.ReadLine
 - int.Parse
 
-[You can check out the code I wrote for Day 25 here.]
+[You can check out the code I wrote for Day 25 here.](./Day25/StringFormatting/StringFormatting/Program.cs)
 
 ### Day 26 – DateTime
 Write a program that prints today’s date and the day of the week.
