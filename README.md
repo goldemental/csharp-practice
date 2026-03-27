@@ -1,4 +1,4 @@
-# hello-world
+<img width="1102" height="101" alt="image" src="https://github.com/user-attachments/assets/9f749250-fed7-4d20-bec7-323864373e4f" /># hello-world
 
 This repository is used to practice GitHub Flow and improve my C# development skills.
 
@@ -474,7 +474,23 @@ My goal is to build a strong understanding of fundamental concepts and become mo
 [You can check out the code I wrote for Day 25 here.](./Day25/StringFormatting/StringFormatting/Program.cs)
 
 ### Day 26 – DateTime
-Write a program that prints today’s date and the day of the week.
+
+**A small console application that:**
+
+- Gets the current date and time using the DateTime class
+- Extracts today’s date
+- Retrieves the current day of the week
+- Displays the information to the user
+
+**Concepts practiced:**
+
+- DateTime class
+- DateTime.Now
+- DayOfWeek property
+- Console.WriteLine
+- Variables
+
+[You can check out the code I wrote for Day 26 here.](./)
 
 ### Day 27 – Simple Game
 Create a number guessing game with feedback if the guess is too high or too low.
