@@ -1,5 +1,3 @@
-<img width="1102" height="101" alt="image" src="https://github.com/user-attachments/assets/9f749250-fed7-4d20-bec7-323864373e4f" /># hello-world
-
 This repository is used to practice GitHub Flow and improve my C# development skills.
 
 ## About Me
@@ -490,7 +488,7 @@ My goal is to build a strong understanding of fundamental concepts and become mo
 - Console.WriteLine
 - Variables
 
-[You can check out the code I wrote for Day 26 here.](./)
+[You can check out the code I wrote for Day 26 here.](./Day26/DateTime/DateTime/Program.cs)
 
 ### Day 27 – Simple Game
 Create a number guessing game with feedback if the guess is too high or too low.
