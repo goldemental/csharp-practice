@@ -491,7 +491,25 @@ My goal is to build a strong understanding of fundamental concepts and become mo
 [You can check out the code I wrote for Day 26 here.](./Day26/DateTime/DateTime/Program.cs)
 
 ### Day 27 – Simple Game
-Create a number guessing game with feedback if the guess is too high or too low.
+
+**A small console application that:**
+
+- Generates a random number between 1 and 100
+- Asks the user to guess the number
+- Provides feedback if the guess is too high or too low
+- Repeats until the user guesses the correct number
+
+**Concepts practiced:**
+
+- Random numbers (Random.Next)
+- Loops (while)
+- Conditional statements (if / else)
+- Console.WriteLine
+- Console.ReadLine
+- int.Parse
+- Game logic
+
+[You can check out the code I wrote for Day 27 here.](./)
 
 ### Day 28 – More Practice with Methods
 Write a method that returns the factorial of a number.
