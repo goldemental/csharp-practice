@@ -509,7 +509,7 @@ My goal is to build a strong understanding of fundamental concepts and become mo
 - int.Parse
 - Game logic
 
-[You can check out the code I wrote for Day 27 here.](./)
+[You can check out the code I wrote for Day 27 here.](./Day27/GuessingGame/GuessingGame/Program.cs)
 
 ### Day 28 – More Practice with Methods
 Write a method that returns the factorial of a number.
