@@ -531,7 +531,7 @@ My goal is to build a strong understanding of fundamental concepts and become mo
 - Console.ReadLine
 - int.Parse
 
-[You can check out the code I wrote for Day 28 here.](./)
+[You can check out the code I wrote for Day 28 here.](./Day28/Factorial/Factorial/Program.cs)
 
 ### Day 29 – Nested Loops
 Print a multiplication table from 1 to 5 using nested loops.
