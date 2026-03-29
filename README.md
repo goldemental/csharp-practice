@@ -512,7 +512,26 @@ My goal is to build a strong understanding of fundamental concepts and become mo
 [You can check out the code I wrote for Day 27 here.](./Day27/GuessingGame/GuessingGame/Program.cs)
 
 ### Day 28 – More Practice with Methods
-Write a method that returns the factorial of a number.
+
+**A small console application that:**
+
+- Asks the user to enter a number
+- Uses a method to calculate the factorial of the number
+- Returns the factorial value
+- Displays the result to the user
+
+**Concepts practiced:**
+
+- Methods
+- Return values
+- Parameters
+- Loops (for)
+- Variables
+- Console.WriteLine
+- Console.ReadLine
+- int.Parse
+
+[You can check out the code I wrote for Day 28 here.](./)
 
 ### Day 29 – Nested Loops
 Print a multiplication table from 1 to 5 using nested loops.
