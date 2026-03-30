@@ -549,7 +549,7 @@ My goal is to build a strong understanding of fundamental concepts and become mo
 - Console.WriteLine
 - Loop control
 
-You can check out the code I wrote for Day 29 here.
+[You can check out the code I wrote for Day 29 here.](./Day29/NestedLoops/NestedLoops/Program.cs)
 
 ### Day 30 – Final Mini Project
 Combine all: ask the user for a few numbers, calculate sum, average, and display results nicely.
