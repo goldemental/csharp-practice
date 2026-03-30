@@ -534,7 +534,22 @@ My goal is to build a strong understanding of fundamental concepts and become mo
 [You can check out the code I wrote for Day 28 here.](./Day28/Factorial/Factorial/Program.cs)
 
 ### Day 29 – Nested Loops
-Print a multiplication table from 1 to 5 using nested loops.
+
+**A small console application that:**
+
+- Uses nested for loops
+- Prints a multiplication table from 1 to 5
+- Displays the results in a structured format
+
+**Concepts practiced:**
+
+- Nested loops (for inside another for)
+- Arithmetic operators (*)
+- Variables
+- Console.WriteLine
+- Loop control
+
+You can check out the code I wrote for Day 29 here.
 
 ### Day 30 – Final Mini Project
 Combine all: ask the user for a few numbers, calculate sum, average, and display results nicely.
