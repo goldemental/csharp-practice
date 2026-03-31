@@ -552,4 +552,23 @@ My goal is to build a strong understanding of fundamental concepts and become mo
 [You can check out the code I wrote for Day 29 here.](./Day29/NestedLoops/NestedLoops/Program.cs)
 
 ### Day 30 – Final Mini Project
-Combine all: ask the user for a few numbers, calculate sum, average, and display results nicely.
+
+**A small console application that:**
+
+- Asks the user to enter several numbers
+- Stores the numbers in an array
+- Calculates the sum of the numbers
+- Calculates the average value
+- Displays the results clearly to the user
+
+**Concepts practiced:**
+
+- Arrays
+- Loops (for)
+- Variables
+- Arithmetic operators (+, /)
+- Console.WriteLine
+- Console.ReadLine
+- int.Parse
+
+You can check out the code I wrote for Day 30 here.
