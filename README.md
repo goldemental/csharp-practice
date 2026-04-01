@@ -571,4 +571,7 @@ My goal is to build a strong understanding of fundamental concepts and become mo
 - Console.ReadLine
 - int.Parse
 
-[You can check out the code I wrote for Day 30 here.9](./Day30/FinalMiniProject/FinalMiniProject/Program.cs)
+[You can check out the code I wrote for Day 30 here.](./Day30/FinalMiniProject/FinalMiniProject/Program.cs)
+
+I’m really happy that I successfully completed this challenge.
+I’ll be taking a short break to focus on my midterms, and after that, I plan to start a new journey where I’ll document my learning of object-oriented programming in C#.
